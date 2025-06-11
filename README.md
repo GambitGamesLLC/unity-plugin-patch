@@ -53,3 +53,16 @@ Admin tools
 For additional information, visit the [website](https://patch.mhlab.tech/).
 
 [Documentation](https://github.com/emanzione/PATCH/wiki) | [Mail me](m4nu.91@gmail.com) | [Issue tracker](https://github.com/emanzione/PATCH/issues) | [Source code](http://u3d.as/jSG) | [Forum](http://forum.unity3d.com/threads/p-a-t-c-h-ultimate-patching-system.342320/)
+
+------------------------------
+INSTALLATION INSTRUCTIONS
+------------------------------
+- Open your unity package manager manifest (YourProject/Packages/manifest.json)
+
+- Add a new entry...\
+  "com.mhlab.patch": "https://github.com/GambitGamesLLC/unity-plugin-patch.git?path=Assets/Plugins/Package",
+
+- If you want to keep up to date with this repo, then you're done.
+- If you want a specific version, add #v1.0.0 to the end of the URL (replace with the released version you want)
+
+- Check the [Unity manual](https://docs.unity3d.com/Manual/upm-git.html#subfolder) on installing plugins from the subfolder of a Git repo for more info.
