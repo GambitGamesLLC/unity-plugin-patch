@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ba26b2da6b4f554883b419e5c215700
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46639
+  packageName: 'PATCH - Updating System [Plus]'
+  packageVersion: 2.6.7
+  assetPath: Assets/MHLab/Patch/Core/Utilities/FormatUtility.cs
+  uploadId: 576943

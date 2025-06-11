@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 627fa03e2a25db64eb47aa73f495bf26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46639
+  packageName: 'PATCH - Updating System [Plus]'
+  packageVersion: 2.6.7
+  assetPath: Assets/MHLab/Patch/Core/Octodiff/AggregateCopyOperationsDecorator.cs
+  uploadId: 576943

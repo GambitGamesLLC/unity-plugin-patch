@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ebb5f595999322045a7f1f5ea1be48d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46639
+  packageName: 'PATCH - Updating System [Plus]'
+  packageVersion: 2.6.7
+  assetPath: Assets/MHLab/Patch/Core/Octodiff/HashAlgorithmWrapper.cs
+  uploadId: 576943

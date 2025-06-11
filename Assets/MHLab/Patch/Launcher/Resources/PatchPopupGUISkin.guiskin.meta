@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5f288d322666f046a3798eb46fe874a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46639
+  packageName: 'PATCH - Updating System [Plus]'
+  packageVersion: 2.6.7
+  assetPath: Assets/MHLab/Patch/Launcher/Resources/PatchPopupGUISkin.guiskin
+  uploadId: 576943
