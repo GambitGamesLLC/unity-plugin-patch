@@ -10,11 +10,11 @@ com.mhlab.patch
 MHLab.Patch
 
 **ASMDEF File:**\
-MHLab.Patch
+MHLab.Patch  
 NOTE: No ASMDEF currently exists
 
 **Scripting Define Symbol:**\
-EXT_PATCH
+EXT_PATCH  
 NOTE: We recommend wrapping any packages referencing this plugin with this symbol, regardless if the ASMDEF is missing.
 
 ------------------------------
