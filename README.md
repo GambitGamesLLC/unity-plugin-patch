@@ -62,4 +62,4 @@ For additional information, visit the [website](https://patch.mhlab.tech/).
 INSTALLATION INSTRUCTIONS
 ------------------------------
 - Clone the repository
-- Copy the MHLab folder within Assets to your project
+- Copy the MHLab folder within Assets to your project assets folder
