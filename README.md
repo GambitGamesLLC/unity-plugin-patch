@@ -15,7 +15,7 @@ NOTE: No ASMDEF currently exists
 
 **Scripting Define Symbol:**\
 EXT_PATCH  
-NOTE: We recommend wrapping any packages referencing this plugin with this symbol, regardless if the ASMDEF is missing.
+NOTE: We recommend wrapping any scripts or assemblies referencing this plugin with this symbol, regardless if the ASMDEF is missing as best practice.
 
 ------------------------------
 ASSET STORE DESCRIPTION
