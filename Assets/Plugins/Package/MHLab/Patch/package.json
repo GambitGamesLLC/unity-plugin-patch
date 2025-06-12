@@ -1,0 +1,10 @@
+{
+  "name": "com.mhlab.patch",
+  "version": "2.6.7",
+  "displayName": "Unity Math Helper",
+  "description": "Copy of Unity Asset Store Plugin - Patch",
+  "unity": "6000.1",
+  "author": {
+    "name": "MHLab"
+  }
+}
