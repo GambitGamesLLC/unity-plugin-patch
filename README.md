@@ -5,7 +5,7 @@ Copy of the [PATCH Unity Plugin](https://assetstore.unity.com/packages/tools/uti
 com.mhlab.patch
 
 **Namespace:**\
-MH.Patch
+MHLab.Patch
 
 **ASMDEF File:**\
 MHLab.Patch
