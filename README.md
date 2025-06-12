@@ -11,7 +11,7 @@ MHLab.Patch
 
 **ASMDEF File:**\
 MHLab.Patch  
-NOTE: No ASMDEF currently exists
+NOTE: No ASMDEF currently exists due to the structure of the plugin, this may change in the future. Attempts to introduce an ASMDEF to the plugin breaks it, this would need to be handled by the plugin developer.
 
 **Scripting Define Symbol:**\
 EXT_PATCH  
