@@ -1,5 +1,7 @@
 # unity-plugin-patch
-Copy of the [PATCH Unity Plugin](https://assetstore.unity.com/packages/tools/utilities/patch-updating-system-plus-46639) wrapped as a Unity package.
+Copy of the [PATCH Unity Plugin](https://assetstore.unity.com/packages/tools/utilities/patch-updating-system-plus-46639). 
+
+Not available as a package, instead this Unity Asset Store plugin is copied into your project's Assets folder.
 
 **Assembly:**\
 com.mhlab.patch
@@ -9,9 +11,11 @@ MHLab.Patch
 
 **ASMDEF File:**\
 MHLab.Patch
+NOTE: No ASMDEF currently exists
 
 **Scripting Define Symbol:**\
 EXT_PATCH
+NOTE: We recommend wrapping any packages referencing this plugin with this symbol, regardless if the ASMDEF is missing.
 
 ------------------------------
 ASSET STORE DESCRIPTION
@@ -57,12 +61,5 @@ For additional information, visit the [website](https://patch.mhlab.tech/).
 ------------------------------
 INSTALLATION INSTRUCTIONS
 ------------------------------
-- Open your unity package manager manifest (YourProject/Packages/manifest.json)
-
-- Add a new entry...\
-  "com.mhlab.patch": "https://github.com/GambitGamesLLC/unity-plugin-patch.git?path=Assets/Plugins/Package",
-
-- If you want to keep up to date with this repo, then you're done.
-- If you want a specific version, add #v1.0.0 to the end of the URL (replace with the released version you want)
-
-- Check the [Unity manual](https://docs.unity3d.com/Manual/upm-git.html#subfolder) on installing plugins from the subfolder of a Git repo for more info.
+- Clone the repository
+- Copy the MHLab folder within Assets to your project
