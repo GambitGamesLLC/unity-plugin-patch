@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 377d339f89a3d0e408a0d08d3731828b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46639
+  packageName: 'PATCH - Updating System [Plus]'
+  packageVersion: 2.6.7
+  assetPath: Assets/MHLab/Patch/Admin/Editor/Core/AdminPatcherUpdateContext.cs
+  uploadId: 576943

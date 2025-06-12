@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d26e81968a7d4efca2a972a4d2c64065
+timeCreated: 1587306536
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46639
+  packageName: 'PATCH - Updating System [Plus]'
+  packageVersion: 2.6.7
+  assetPath: Assets/MHLab/Patch/Utilities/ArgumentChecker.cs
+  uploadId: 576943

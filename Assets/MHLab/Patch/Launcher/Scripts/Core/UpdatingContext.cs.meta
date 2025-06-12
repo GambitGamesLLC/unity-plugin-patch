@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b36a49e8f5250104dbb6b8c672d735b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46639
+  packageName: 'PATCH - Updating System [Plus]'
+  packageVersion: 2.6.7
+  assetPath: Assets/MHLab/Patch/Launcher/Scripts/Core/UpdatingContext.cs
+  uploadId: 576943
